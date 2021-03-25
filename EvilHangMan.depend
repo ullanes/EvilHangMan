@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1575681124 source:c:\users\maximus\desktop\cpp2019\evilhangman\evilhangman.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+	"FamilySet.h"
+
+1575595709 c:\users\maximus\desktop\cpp2019\evilhangman\familyset.h
+	<vector>
+	<unordered_map>
+	<string>
+	<fstream>
+	<iostream>
+
+1575680316 source:c:\users\maximus\desktop\cpp2019\evilhangman\familyset.cpp
+	"FamilySet.h"
+	<string>
+
